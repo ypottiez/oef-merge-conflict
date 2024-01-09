@@ -1,3 +1,7 @@
 test nummer 2
 adinda comment
+<<<<<<< HEAD
 adinda comment2
+=======
+comment van yannick
+>>>>>>> 02ef832d9733d24acebc9e847e63e769c769b224
